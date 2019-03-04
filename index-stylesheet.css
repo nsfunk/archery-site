@@ -26,7 +26,7 @@ body{
 }
 header{
   padding-bottom: 2em;
-  background-color: rgb(27, 68, 127);
+  background-color: rgba(27, 68, 127);
   padding: 3rem 3rem 9rem 3rem;
   margin: -2.5rem;
 }
@@ -86,10 +86,10 @@ h4{
 h5 {
   font-size: 17px;
   text-align: center;
-  color: rgb (68, 68, 68);
+  color: rgba(68, 68, 68);
 }
 figcaption{
-  color: rgb (68, 68, 68);
+  color: rgba(68, 68, 68);
   font-size: 15px;
   padding-top: 0.5rem;
 }
